@@ -7,9 +7,7 @@
 ![Status](https://img.shields.io/badge/status-in_development-orange)
 ![Source](https://img.shields.io/badge/source-private-lightgrey)
 
-
-<img width="640" height="360" alt="HERO GIF of Logobbo usage" src="https://github.com/user-attachments/assets/da64037d-4195-4566-8351-ac151ec6460f" title="Register, login, backlog and log creation examle!" />
-
+<img width="640" height="360" alt="HERO GIF of Logobbo usage" src="media/hero_demo.gif" title="Register, login, backlog and log creation examle!" />
 
 [Screenshots](#screenshots) · [Tech stack](#tech-stack) · [About this repository](#about-this-repository)
 
@@ -27,21 +25,25 @@ Many people use tools such as spreadsheets to keep their backlogs. While that's 
 ## Screenshots
 
 ### Backlog
-<img width="640" height="360" alt="Backlog view example" src="https://github.com/user-attachments/assets/7b1ff7d7-0f08-4adc-a6b9-a066c79bb8a0" title="Backlog view example" />
+
+<img width="640" height="360" alt="Backlog view example" src="media/1_backlog_view_example.png" title="Backlog view example" />
 
 ### Creating a Log
-<img width="640" height="360" alt="Log creation example" src="https://github.com/user-attachments/assets/a6af70cd-9b97-4c5e-8e75-57f21f98c455" title="Log creation example" />
+
+<img width="640" height="360" alt="Log creation example" src="media/2_log_creation_example.png" title="Log creation example" />
 
 ### Backlog edit
-<img width="640" height="360" alt="Backlog edit example" title="Backlog edit example" src="https://github.com/user-attachments/assets/1271f2a6-8661-4925-acb7-68dfe0a411ca" />
+
+<img width="640" height="360" alt="Backlog edit example" title="Backlog edit example" src="media/3_backlog_edit_example.png" />
 
 ### Dark / Light themes
-<img width="640" height="360" alt="Backlog view with Dark mode" title="Backlog view with Dark mode" src="https://github.com/user-attachments/assets/f549dac2-2131-49cb-989a-5f787e11749d" />
-<img width="640" height="360" alt="Backlog view with Light mode" title="Backlog view with Light mode" src="https://github.com/user-attachments/assets/d18f4482-04e8-405a-9032-044185837946" />
+
+<img width="640" height="360" alt="Backlog view with Dark mode" title="Backlog view with Dark mode" src="media/4_backlog_view_dark_mode.png" />
+<img width="640" height="360" alt="Backlog view with Light mode" title="Backlog view with Light mode" src="media/5_backlog_view_light_mode.png" />
 
 ### Tutorial
-<img width="640" height="360" alt="Tutorial view example" title="Tutorial view example" src="https://github.com/user-attachments/assets/0345e94f-150e-43a7-abdb-62054ce4eab0" />
 
+<img width="640" height="360" alt="Tutorial view example" title="Tutorial view example" src="media/6_tutorial_example_view.png" />
 
 ## Features
 
@@ -55,12 +57,12 @@ Many people use tools such as spreadsheets to keep their backlogs. While that's 
 
 ## Tech stack
 
-| Layer | Technologies |
-| --- | --- |
+| Layer        | Technologies                                                             |
+| ------------ | ------------------------------------------------------------------------ |
 | **Frontend** | TypeScript, React, MUI (Material UI), React-Toastify, Vite, Bun, i18next |
-| **Backend** | Python, Django, Django REST Framework |
-| **API** | RESTful, HATEOAS |
-| **Auth** | JWT (DRF Simple JWT) |
+| **Backend**  | Python, Django, Django REST Framework                                    |
+| **API**      | RESTful, HATEOAS                                                         |
+| **Auth**     | JWT (DRF Simple JWT)                                                     |
 
 ### Highlights
 
