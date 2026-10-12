@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/status-in_development-orange)
 ![Source](https://img.shields.io/badge/source-private-lightgrey)
 
-<img width="640" height="360" alt="HERO GIF of Logobbo usage" src="media/hero_demo.gif" title="Register, login, backlog and log creation examle!" />
+<img width="640" height="360" alt="HERO GIF of Logobbo usage" src="media/hero_demo.gif" title="Register, login, backlog and log creation example!" />
 
 [Screenshots](#screenshots) · [Tech stack](#tech-stack) · [About this repository](#about-this-repository)
 
