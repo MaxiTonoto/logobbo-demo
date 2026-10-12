@@ -50,7 +50,6 @@ Many people use tools such as spreadsheets to keep their backlogs. While that's 
 - Create and manage backlogs for video games and other kinds of media.
 - User accounts with JWT authentication.
 - Dark and light themes.
-- i18n translations.
 - Feedback for loading and empty listings.
 - Export Backlogs & Logs in JSON and CSV.
 - Public Backlogs.
